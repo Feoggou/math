@@ -1,0 +1,93 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Index Ajutor Math">
+		<param name="Local" value="main_index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Meniuri">
+		<param name="Local" value="hid_bara_de_meniuri.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Fisier">
+			<param name="Local" value="menu_file.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Editare">
+			<param name="Local" value="menu_edit.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Inserare">
+			<param name="Local" value="menu_insert.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Formatare">
+			<param name="Local" value="menu_format.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Vizionare">
+			<param name="Local" value="menu_view.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Ajutor">
+			<param name="Local" value="menu_help.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Comenzile meniului Control">
+			<param name="Local" value="menu_control.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bara de Stare">
+		<param name="Local" value="afx_hidw_status_bar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bara de Unelte">
+		<param name="Local" value="afx_hidw_toolbar.htm">
+		</OBJECT>
+		
+		
+		
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Expresiile Algebrice">
+		<param name="Local" value="hid_expresiile_algebrice.htm">
+		</OBJECT>
+	<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Operatorii">
+		<param name="Local" value="hid_operatorii.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Numerele">
+		<param name="Local" value="hid_numerele.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Constantele">
+		<param name="Local" value="hid_constante.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Functiile">
+		<param name="Local" value="hid_functiile.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Operatorii">
+		<param name="Local" value="hid_operatorii.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Parantezele">
+		<param name="Local" value="hid_parantezele.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ordinea efectuarii operatiilor">
+		<param name="Local" value="hid_ordinea_efect.htm">
+		</OBJECT>
+		
+	</UL>
+</UL>
+</BODY></HTML>

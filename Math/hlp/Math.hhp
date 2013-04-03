@@ -1,0 +1,150 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=Math.chm
+Contents file=Math.hhc
+Index file=Math.hhk
+Default topic=main_index.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x18 Romanian
+
+
+[FILES]
+hdlg_options.htm
+afx_hidd_filesave.htm
+afx_hidd_font.htm
+afx_hidw_status_bar.htm
+afx_hidw_toolbar.htm
+hid_app_about.htm
+hid_app_exit.htm
+hid_edit_clear_all.htm
+hid_edit_copy.htm
+hid_eedit_paste.htm
+hid_eedit_undo.htm
+hid_file_new.htm
+hid_file_save.htm
+hid_file_save_as.htm
+hid_help_finder.htm
+hid_ht_caption.htm
+hid_sc_close.htm
+hid_sc_maximize.htm
+hid_sc_minimize.htm
+hid_sc_move.htm
+hid_sc_restore.htm
+hid_sc_size.htm
+hid_view_status_bar.htm
+hid_view_toolbar.htm
+hid_view_options.htm
+main_index.htm
+menu_edit.htm
+menu_insert.htm
+menu_file.htm
+menu_help.htm
+menu_format.htm
+menu_view.htm
+menu_control.htm
+hid_format_font.htm
+hid_functiile.htm
+hid_functie_rad.htm
+hid_functie_log.htm
+hid_functie_ln.htm
+hid_functie_lg.htm
+hid_functie_cmmdc.htm
+hid_functie_cmmmc.htm
+hid_functie_min.htm
+hid_functie_max.htm
+hid_functie_p.htm
+hid_functie_a.htm
+hid_functie_c.htm
+hid_operator_plus.htm
+hid_operator_minus.htm
+hid_operator_multiply.htm
+hid_operator_divide.htm
+hid_operator_power.htm
+hid_operator_factorial.htm
+hid_operator_mod.htm
+hid_constante.htm
+hid_operatorii.htm
+hid_ordinea_efect.htm
+hid_parantezele.htm
+hid_expresiile_algebrice.htm
+hid_numerele.htm
+
+[ALIAS]
+HIDR_MAINFRAME = main_index.htm
+
+hdlg_options.htm					= hdlg_options.htm
+main_index							= main_index.htm
+afx_hidd_filesave					= afx_hidd_filesave.htm
+afx_hidd_font						= afx_hidd_font.htm
+afx_hidw_status_bar					= afx_hidw_status_bar.htm
+afx_hidw_toolbar					= afx_hidw_toolbar.htm
+hid_app_about						= hid_app_about.htm
+hid_app_exit						= hid_app_exit.htm
+hid_bara_de_meniuri					= hid_bara_de_meniuri.htm
+hid_edit_clear_all					= hid_edit_clear_all.htm
+hid_edit_copy						= hid_edit_copy.htm
+hid_eedit_paste						= hid_eedit_paste.htm
+hid_eedit_undo						= hid_eedit_undo.htm
+hid_format_font						= hid_format_font.htm
+hid_file_new						= hid_file_new.htm
+hid_file_save						= hid_file_save.htm
+hid_file_save_as					= hid_file_save_as.htm
+hid_help_finder						= hid_help_finder.htm
+hid_ht_caption						= hid_ht_caption.htm
+hid_sc_close						= hid_sc_close.htm
+hid_sc_maximize						= hid_sc_maximize.htm
+hid_sc_minimize						= hid_sc_minimize.htm
+hid_sc_move							= hid_sc_move.htm
+hid_sc_restore						= hid_sc_restore.htm
+hid_sc_size							= hid_sc_size.htm
+hid_view_status_bar					= hid_view_status_bar.htm
+hid_view_toolbar					= hid_view_toolbar.htm
+hid_view_options					= hid_view_options.htm
+menu_edit							= menu_edit.htm
+menu_insert							= menu_insert.htm
+menu_format							= menu_format.htm
+menu_file							= menu_file.htm
+menu_help							= menu_help.htm
+menu_view							= menu_view.htm
+menu_control.htm					= menu_control.htm
+HIDD_ABOUTBOX						= HID_APP_ABOUT.htm
+HID_HT_SIZE							= HID_SC_SIZE.htm
+HID_HT_MINBUTTON					= HID_SC_MINIMIZE.htm
+HID_HT_MAXBUTTON					= HID_SC_MAXIMIZE.htm
+hid_functiile						= hid_functiile.htm
+hid_functie_rad						= hid_functie_rad.htm
+hid_functie_log						= hid_functie_log.htm
+hid_functie_ln						= hid_functie_ln.htm
+hid_functie_lg						= hid_functie_lg.htm
+hid_functie_cmmdc					= hid_functie_cmmdc.htm
+hid_functie_cmmmc					= hid_functie_cmmmc.htm
+hid_functie_min						= hid_functie_min.htm
+hid_functie_max						= hid_functie_max.htm
+hid_functie_p						= hid_functie_p.htm
+hid_functie_a						= hid_functie_a.htm
+hid_functie_c						= hid_functie_c.htm
+hid_operator_plus					= hid_operator_plus.htm
+hid_operator_minus					= hid_operator_minus.htm
+hid_operator_multiply				= hid_operator_multiply.htm
+hid_operator_divide					= hid_operator_divide.htm
+hid_operator_power					= hid_operator_power.htm
+hid_operator_factorial				= hid_operator_factorial.htm
+hid_operator_mod					= hid_operator_mod.htm
+hid_constante						= hid_constante.htm
+hid_constante_e						= hid_constante.htm
+hid_constante_pi					= hid_constante.htm
+hid_operatorii						= hid_operatorii.htm
+hid_ordinea_efect					= hid_ordinea_efect.htm
+hid_parantezele						= hid_parantezele.htm
+hid_expresiile_algebrice			= hid_expresiile_algebrice.htm
+hid_numerele						= hid_numerele.htm
+
+[MAP]
+#include HTMLDefines.h
+
+[TEXT POPUPS]
+HTMLDefines.h
+
+[INFOTYPES]
